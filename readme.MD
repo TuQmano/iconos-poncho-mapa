@@ -1,0 +1,1 @@
+# Iconos para mapa usando ggimage()
